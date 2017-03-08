@@ -15,6 +15,7 @@ draft = false
 title = "A Priest Who “Sees the Dead”? Dead Wrong"
 date = 2014-07-02T05:56:23-04:00
 author = "P.F. Hawkins"
+image = "/images/2014/Jul/papal-tiara-and-keys.jpg"
 
 +++
 
@@ -30,7 +31,7 @@ Someone who was not actively practicing the heretical Anglican faith of his yout
 
 While I cannot say for sure what happened here, the most likely explanation is that the presence that Daryl sensed was not his brother, but a demon.
 
-There are a *very* few incidences that I have read about in <a href="http://www.amazon.com/gp/product/0895558319/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0895558319&linkCode=as2&tag=phawkcom-20&linkId=6YF54X2IBFZETA6A">this book on purgatory</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=phawkcom-20&l=as2&o=1&a=0895558319" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> of souls spending small portions of their purgatory on earth. It is not at all common. But this story cannot be about such a soul. Any soul undergoing such purgation would not have been restless, disturbed, or frightened, as they are already assured heaven. Saddened, yes, but not disturbed.
+There are a *very* few incidences that I have read about in [this book on purgatory](http://amzn.to/2ndTm9l) of souls spending small portions of their purgatory on earth. It is not at all common. But this story cannot be about such a soul. Any soul undergoing such purgation would not have been restless, disturbed, or frightened, as they are already assured heaven. Saddened, yes, but not disturbed.
 
 (Incidentally, those who were having the service need not have prayed for Henry to meet Jesus; however it had ultimately turned out, by this point Henry had already met Jesus as the just judge who presided over the particular judgement of his soul.)
 

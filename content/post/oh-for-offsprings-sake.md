@@ -17,6 +17,7 @@ tags = [
   "Pope Pius XI",
   "Casti Connubii",
 ]
+image = "/images/2015/Aug/jan-de-bray-orphanage.jpg"
 
 +++
 

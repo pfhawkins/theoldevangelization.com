@@ -15,7 +15,7 @@ tags = [
   "Pope St. Pius X",
   "spot modernism",
 ]
-
+image = "/images/2014/Jun/wheres-waldo.jpg"
 +++
 
 Fr. Bernard Ardura, president of the Pontifical Committee for Historical Sciences, [recently gave an interview about Pope St. Pius X](http://www.zenit.org/en/articles/pius-x-is-misunderstood-says-leader-of-pontifical-committee-for-historical-sciences). Let’s see if what he has to say about this great pope is tainted with modernism.
