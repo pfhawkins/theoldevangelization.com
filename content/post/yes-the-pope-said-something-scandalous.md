@@ -5,7 +5,7 @@ tags = [
   "Pope Paul VI",
   "Humanæ Vitæ",
 ]
-image = "/images/2016/02/Tridentinum.jpg"
+image = "/images/pope-on-a-plane-mexico-gold.jpg"
 description = ""
 draft = false
 title = "Yes, The Pope Said Something Scandalous"
