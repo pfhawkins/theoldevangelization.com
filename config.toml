@@ -43,3 +43,8 @@ canonifyurls = true
   name = "Contact"
   identifier = "contact"
   url = "/contact"
+
+[[menu.main]]
+  name = "Home"
+  identifier = "home"
+  url = "/"
