@@ -28,3 +28,18 @@ canonifyurls = true
 
 [permalinks]
   post = "/:slug/"
+
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  url = "/about"
+
+[[menu.main]]
+  name = "Blogroll"
+  identifier = "blogroll"
+  url = "/blogroll"
+
+[[menu.main]]
+  name = "Contact"
+  identifier = "contact"
+  url = "/contact"

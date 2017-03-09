@@ -5,7 +5,7 @@ author = "P.F. Hawkins"
 description = ""
 slug = "blogroll"
 draft = false
-
+image = "/images/great-isaiah-scroll-gold.jpg"
 +++
 
 * [One Peter Five](http://onepeterfive.com)
