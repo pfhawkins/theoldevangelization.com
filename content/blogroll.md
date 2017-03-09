@@ -2,7 +2,7 @@
 title = "Blogroll"
 date = 2016-03-02T16:42:13-05:00
 author = "P.F. Hawkins"
-description = ""
+description = "Sites worth following"
 slug = "blogroll"
 draft = false
 image = "/images/great-isaiah-scroll-gold.jpg"

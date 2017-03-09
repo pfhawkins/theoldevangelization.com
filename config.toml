@@ -30,6 +30,12 @@ canonifyurls = true
   post = "/:slug/"
 
 [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = -120
+  url = "/"
+
+[[menu.main]]
   name = "About"
   identifier = "about"
   url = "/about"
@@ -45,6 +51,6 @@ canonifyurls = true
   url = "/contact"
 
 [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  url = "/"
+  name = "Pascendi/Modernism"
+  identifier = "pascendi"
+  url = "/pascendi-series"
