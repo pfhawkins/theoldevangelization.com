@@ -11,6 +11,7 @@ draft = false
 title = "The Seven Personalities of Modernists"
 date = 2014-03-13T08:34:58-04:00
 author = "P.F. Hawkins"
+image = "/images/PiusXstudy-purple.jpg"
 
 +++
 

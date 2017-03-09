@@ -13,6 +13,7 @@ tags = [
 description = ""
 slug = "the-modernist-historian"
 draft = false
+image = "/images/PiusXstudy-pink.jpg"
 
 +++
 

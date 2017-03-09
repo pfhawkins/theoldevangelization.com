@@ -13,6 +13,7 @@ tags = [
 description = ""
 slug = "modernism-is-a-system"
 draft = false
+image = "/images/PiusXstudy-green.jpg"
 
 +++
 

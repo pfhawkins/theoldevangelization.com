@@ -13,6 +13,7 @@ tags = [
   "modernism",
   "pascendi",
 ]
+image = "/images/PiusXstudy-yellow.jpg"
 
 +++
 

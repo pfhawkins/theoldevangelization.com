@@ -13,7 +13,7 @@ slug = "modernism-in-action"
 draft = false
 title = "Modernism In Action"
 date = 2014-05-03T07:10:43-04:00
-
+image = "/images/PiusXstudy-blue.jpg"
 +++
 
 After spelling out the causes of Modernism, Pope St. Pius X tackles the tactics of Modernists. He lumps them under two umbrellas: removing obstacles that prevent them from deluding the minds of men, and patiently applying every resource at their disposal.

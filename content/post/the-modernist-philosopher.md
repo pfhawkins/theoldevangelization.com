@@ -11,7 +11,7 @@ slug = "the-modernist-philosopher"
 draft = false
 title = "The Modernist Philosopher"
 date = 2014-03-15T12:07:48-04:00
-
+image = "/images/PiusXstudy-pink.jpg"
 +++
 
 The Modernist philosopher begins with ***Agnosticism***. Many people think that agnosticism is simply acknowledging that one does not know whether or not God exists. But in the Modernist system, agnosticism is a denial that anyone can even know whether God exists. All we can reason about is *phenomena*: things that appear to us, and the way they appear to us. Since the existence of God is not a phenomena, we can't reason about it. We can't even consider God as a historical subject.

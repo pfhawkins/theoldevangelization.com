@@ -15,7 +15,7 @@ tags = [
   "pascendi",
   "Pope St. Pius X",
 ]
-image = "http://upload.wikimedia.org/wikipedia/commons/1/10/Descent_of_the_Modernists,_E._J._Pace,_Christian_Cartoons,_1922.jpg"
+image = "/images/PiusXstudy-blue.jpg"
 
 +++
 

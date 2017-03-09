@@ -13,7 +13,7 @@ tags = [
   "pascendi",
 ]
 description = ""
-
+image = "/images/PiusXstudy-pink.jpg"
 +++
 
 After fleshing out the tactics of the Modernists, Pope St. Pius X outlines a plan of attack for his papacy to combat Modernists. He acknowledges that Pope Leo XIII had fought Modernists, but the Modernists were able to twist the words of the Pontiff and convince others that he really was talking about others, not themselves. But St. Pius X realizes that more efficacious measures are needed. He implores all bishops, pastors of souls, educators and professors of clerics, and in a very special way the superiors of religious communities to help him in taking the following actions:
