@@ -13,3 +13,4 @@ image = "/images/great-isaiah-scroll-gold.jpg"
 * [Rorate Cæli](http://rorate-caeli.blogspot.com/)
 * [Traditional Roman Catholic Thoughts](http://trcthoughts.com)
 * [Unam Sanctam Catholicam (blog)](http://unamsanctamcatholicam.blogspot.com/), [(additional website)](http://unamsanctamcatholicam.com/)
+* [What's Up With Francischurch?](http://whatisupwiththesynod.com/)
