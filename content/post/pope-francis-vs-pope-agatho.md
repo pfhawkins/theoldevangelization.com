@@ -2,7 +2,7 @@
 title = "Pope Francis vs. Pope St. Agatho"
 date = "2017-10-13T16:11:04-04:00"
 draft = false
-tags = ["doctrine","dogma","principle of non-contradiction","Pope Francis","Pope Agatho"]
+tags = ["Francis Quotes","doctrine","dogma","principle of non-contradiction","Pope Francis","Pope Agatho"]
 image = "/images/pope-agatho.jpg"
 +++
 

@@ -1,7 +1,7 @@
 +++
 slug = "pope-francis-vs-trent"
 menu = ""
-tags = ["Pope Francis","Council of Trent","anathema"]
+tags = ["Pope Francis","Francis Quotes","Council of Trent","anathema"]
 share = true
 image = "/images/dutch-proverbs.jpg"
 draft = false
