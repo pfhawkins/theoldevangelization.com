@@ -17,6 +17,8 @@ tags = [
 description = ""
 slug = "the-prophet-elias-re-converts-israel-again"
 draft = false
+image = "/images/st-elias-prophets-baal.jpg"
+featured_image = "/images/st-elias-prophets-baal.jpg"
 
 +++
 
