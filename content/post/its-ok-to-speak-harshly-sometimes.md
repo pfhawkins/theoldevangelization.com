@@ -17,6 +17,8 @@ tags = [
 ]
 description = ""
 slug = "its-ok-to-speak-harshly-sometimes"
+image = "/images/st-pius-x-german-holy-card.jpg"
+featured_image = "/images/st-pius-x-german-holy-card.jpg"
 
 +++
 
