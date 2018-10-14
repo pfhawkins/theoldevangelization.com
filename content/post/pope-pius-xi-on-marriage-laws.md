@@ -15,6 +15,8 @@ categories = [
   "Pope Pius XI",
   "Casti Connubii",
 ]
+image = "/images/pius-xi-enthroned.jpg"
+featured_image = "/images/pius-xi-enthroned.jpg"
 
 +++
 
