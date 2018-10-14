@@ -13,6 +13,8 @@ tags = [
 ]
 description = ""
 slug = "catholicism-is-for-everyone"
+image = "/images/gertner-crucifixion.jpg"
+featured_image = "/images/gertner-crucifixion.jpg"
 
 +++
 
