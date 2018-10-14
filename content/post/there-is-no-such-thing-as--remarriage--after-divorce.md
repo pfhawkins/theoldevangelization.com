@@ -13,6 +13,8 @@ categories = [
   "marriage",
   "schism",
 ]
+image = "/images/pius-xi-enthroned.jpg"
+featured_image = "/images/pius-xi-enthroned.jpg"
 
 +++
 
