@@ -17,6 +17,8 @@ draft = false
 title = "Apostasy and Cardinal Dolan"
 date = 2013-06-22T12:00:00-04:00
 author = "P.F. Hawkins"
+image = "/images/come-at-me-dolan.jpg"
+featured_image = "/images/come-at-me-dolan.jpg"
 
 +++
 
