@@ -11,6 +11,8 @@ description = ""
 slug = "the-mass-is-not-a-bludgeon"
 draft = false
 title = "The Mass Is Not A Bludgeon"
+image = "/images/missa-requiem.jpg"
+featured_image = "/images/missa-requiem.jpg"
 
 +++
 
