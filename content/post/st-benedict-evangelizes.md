@@ -17,6 +17,8 @@ tags = [
   "saints",
   "idols",
 ]
+image = "/images/st-benedict-miracle.jpg"
+featured_image = "/images/st-benedict-miracle.jpg"
 
 +++
 
