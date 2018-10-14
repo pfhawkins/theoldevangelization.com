@@ -15,6 +15,8 @@ tags = [
   "Pope St. Pius X",
 ]
 description = ""
+image = "/images/indifferentists-at-assisi-1986.jpg"
+featured_image = "/images/indifferentists-at-assisi-1986.jpg"
 
 +++
 
