@@ -17,6 +17,8 @@ tags = [
 ]
 description = ""
 slug = "temptation-in-the-news"
+image = "/images/robin-hood-statue.jpg"
+featured_image = "/images/robin-hood-statue.jpg"
 
 +++
 

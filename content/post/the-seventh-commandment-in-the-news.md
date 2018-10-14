@@ -13,6 +13,8 @@ tags = [
   "sin",
 ]
 description = ""
+image = "/images/robin-hood-statue.jpg"
+featured_image = "/images/robin-hood-statue.jpg"
 
 +++
 
