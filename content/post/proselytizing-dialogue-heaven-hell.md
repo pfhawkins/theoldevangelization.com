@@ -17,6 +17,8 @@ categories = [
   "dialogue",
   "new evangelization",
 ]
+image = "/images/cardinal-taurin-announces.jpg"
+featured_image = "/images/cardinal-taurin-announces.jpg"
 
 +++
 
