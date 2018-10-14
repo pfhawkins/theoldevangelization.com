@@ -4,6 +4,7 @@ menu = ""
 comments = false
 date = "2017-03-13T23:11:01-04:00"
 image = "/images/archbishop-arthur-roche-preach-evensong.jpg"
+featured_image = "/images/archbishop-arthur-roche-preach-evensong.jpg"
 title = "Archbishop Arthur Roche vs. Pope Pius XI"
 draft = false
 share = true

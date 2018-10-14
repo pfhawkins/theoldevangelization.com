@@ -13,7 +13,7 @@ slug = "the-modernist-theologian-topics-of-faith"
 draft = false
 title = "The Modernist Theologian – Topics of Faith"
 date = 2014-03-26T06:16:27-04:00
-image = "/images/PiusXstudy-pink.jpg"
+featured_image = "/images/PiusXstudy-pink.jpg"
 
 +++
 

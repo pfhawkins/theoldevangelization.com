@@ -2,6 +2,7 @@
 date = 2016-05-13T08:43:50-04:00
 author = "P.F. Hawkins"
 image = "/images/2016/05/Saint_Paul_Writing_His_Epistles-_by_Valentin_de_Boulogne.jpg"
+featured_image = "/images/2016/05/Saint_Paul_Writing_His_Epistles-_by_Valentin_de_Boulogne.jpg"
 description = ""
 slug = "announcing-the-old-evangelization-weekly"
 draft = false

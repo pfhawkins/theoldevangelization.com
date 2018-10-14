@@ -6,6 +6,7 @@ draft = false
 title = "Laudato Si and the Thumper Theorem"
 date = 2015-06-22T10:06:00-04:00
 image = "/images/2015/Jun/thumper.jpg"
+featured_image = "/images/2015/Jun/thumper.jpg"
 +++
 
 In the 1942 Disney animated film _Bambi_, the mother of Thumper makes sure the following lesson is instilled in her son:

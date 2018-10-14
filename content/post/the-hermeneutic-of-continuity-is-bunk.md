@@ -18,6 +18,7 @@ draft = false
 title = "The Hermeneutic of Continuity is Bunk"
 date = 2014-05-13T08:39:07-04:00
 image = "/images/2014/May/vatican-i.jpg"
+featured_image = "/images/2014/May/vatican-i.jpg"
 +++
 
 The hermeneutic of continuity, sometimes called the hermeneutic of reform in continuity, is incoherent. Instead of following this interpretation of Vatican II documents, we should hold the documents to the standard put forth by Catholic Tradition.

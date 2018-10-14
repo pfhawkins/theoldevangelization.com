@@ -1,36 +1,37 @@
-baseurl = "https://theoldevangelization.com/"
-languageCode = "en-us"
 title = "The Old Evangelization"
+baseURL = "https://theoldevangelization.com"
+languageCode = "en-us"
+theme = "ananke"
+themesDir = "./themes"
 
-theme = "casper"
-canonifyurls = true
+#MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+#SectionPagesMenu = "main"
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-40425246-1"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
-#  description = "Hard Truths for Hard Times"
-  cover = "images/cover.jpg"
-  author = "P.F. Hawkins"
-#  authorlocation = "Michigan, U.S.A."
-#  bio= "my bio"
-#  logo = "images/logo.png"
-  googleAnalyticsUserID = "UA-40425246-1"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-#   RSSLink = "http://feeds.feedburner.com/..."
-#  twitterName = "evangelizare"
-#  facebookName = "TheOldEvangelization"
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = true
-  [params.social]
-    twitter = "evangelizare"
-
+  favicon = ""
+  description = "Catholicism and Evangelization, Explained"
+  facebook = "https://www.facebook.com/TheOldEvangelization/"
+  twitter = "https://twitter.com/evangelizare"
+  instagram = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/nucover.jpg"
+  recent_posts_number = 7
 
 [permalinks]
   post = "/:slug/"
-
-[[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = -120
-  url = "/"
 
 [[menu.main]]
   name = "About"

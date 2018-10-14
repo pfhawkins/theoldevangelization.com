@@ -12,7 +12,7 @@ title = "The Seven Personalities of Modernists"
 date = 2014-03-13T08:34:58-04:00
 author = "P.F. Hawkins"
 image = "/images/PiusXstudy-purple.jpg"
-
+featured_image = "/images/PiusXstudy-purple.jpg"
 +++
 
 In *Pascendi Dominici Gregis*, Pope St. Pius X aims to show that Modernism is “the synthesis of all heresies”. It is not just a scattered bunch of heresies here and there, but rather a coherent program on the march to destroy the Catholic faith. But on the surface Modernism appears to be a mess of unrelated tactics. It is not exactly easy to see how it is organized and coherent.

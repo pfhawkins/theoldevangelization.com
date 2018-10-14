@@ -14,6 +14,7 @@ tags = [
 ]
 description = ""
 image = "/images/PiusXstudy-pink.jpg"
+featured_image = "/images/PiusXstudy-pink.jpg"
 +++
 
 An apologist for the Church defends Her and Her faith from all who would argue against them. Over the centuries, many sound arguments have been advanced by Catholics to aid in this defense. The Modernist apologist does not use traditional arguments from reliable sources, but instead bases his defense upon the history produced by [Modernist historians](http://theoldevangelization.com/the-modernist-historian/). He uses two types of arguments: objective and subjective.

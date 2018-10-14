@@ -14,6 +14,7 @@ tags = [
   "pascendi",
 ]
 image = "/images/PiusXstudy-yellow.jpg"
+featured_image = "/images/PiusXstudy-yellow.jpg"
 
 +++
 

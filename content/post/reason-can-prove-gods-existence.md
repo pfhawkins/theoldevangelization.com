@@ -11,6 +11,7 @@ categories = [
   "God",
 ]
 image = "/images/2016/03/Faith_Reason_Seitz_Galleria_dei_Candelabri.jpg"
+featured_image = "/images/2016/03/Faith_Reason_Seitz_Galleria_dei_Candelabri.jpg"
 tags = [
   "denzinger",
   "anathema",

@@ -4,6 +4,7 @@ tags = ["evangelization","Eucharist"]
 date = "2017-04-15T15:44:18-04:00"
 comments = false
 image = "/images/monstrance-banner.jpg"
+featured_image = "/images/monstrance-banner.jpg"
 title = "What Happens When Jesus Evangelizes For You"
 slug = "what-happens-when-jesus-evangelizes-for-you"
 draft = false

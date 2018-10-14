@@ -1,5 +1,6 @@
 +++
 image = "/images/2016/02/baghdad_bob-1144x721.jpg"
+featured_image = "/images/2016/02/baghdad_bob-1144x721.jpg"
 description = ""
 slug = "to-dissemble-when-god-is-wronged-is-impiety"
 title = "To Dissemble When God Is Wronged Is Impiety"
