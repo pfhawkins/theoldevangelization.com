@@ -17,6 +17,8 @@ description = ""
 slug = "old-evangelization-leads-to-persecution"
 draft = false
 title = "Old Evangelization Leads To Persecution"
+image = "/images/franciscan-friars-1920.jpg"
+featured_image = "/images/franciscan-friars-1920.jpg"
 
 +++
 
