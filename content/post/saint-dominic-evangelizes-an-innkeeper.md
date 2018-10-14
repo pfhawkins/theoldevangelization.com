@@ -13,6 +13,8 @@ tags = [
   "old evangelization",
 ]
 description = ""
+image = "/images/st-dominic-at-me-bro.jpg"
+featured_image = "/images/st-dominic-at-me-bro.jpg"
 
 +++
 
