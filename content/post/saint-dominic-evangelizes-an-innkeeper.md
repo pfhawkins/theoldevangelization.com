@@ -21,4 +21,4 @@ Excerpted from [Saint Dominic de Guzman][1] by Fray Diego Matamoros
 > 
 > The innkeeper and Saint Dominic debated for the rest of the night. When the light of day dawned, morning found the innkeeper on his knees, penitent and restored to the Catholic Faith. In that long night, the light of truth had conquered him. This innkeeper was the first soul that Dominic saved from the dualistic errors of the Albigensians. 
 
-[1]: http://catholicism.org/st-dominic.html
+[1]: https://catholicism.org/st-dominic.html

@@ -10,4 +10,4 @@ author = "P.F. Hawkins"
 
 _The Old Evangelization_ is a personal blog about Catholic topics. It's entirely the product of P.F. Hawkins. He's just a husband and father. 
 
-Apart from this blog, his writing has also appeared at [One Peter Five](http://www.onepeterfive.com/author/pfhawkins/).
+Apart from this blog, his writing has also appeared at [One Peter Five](https://www.onepeterfive.com/author/pfhawkins/).

@@ -17,7 +17,7 @@ image = "/images/PiusXstudy-pink.jpg"
 featured_image = "/images/PiusXstudy-pink.jpg"
 +++
 
-An apologist for the Church defends Her and Her faith from all who would argue against them. Over the centuries, many sound arguments have been advanced by Catholics to aid in this defense. The Modernist apologist does not use traditional arguments from reliable sources, but instead bases his defense upon the history produced by [Modernist historians](http://theoldevangelization.com/the-modernist-historian/). He uses two types of arguments: objective and subjective.
+An apologist for the Church defends Her and Her faith from all who would argue against them. Over the centuries, many sound arguments have been advanced by Catholics to aid in this defense. The Modernist apologist does not use traditional arguments from reliable sources, but instead bases his defense upon the history produced by [Modernist historians](https://theoldevangelization.com/the-modernist-historian/). He uses two types of arguments: objective and subjective.
 
 ## Objective Approach
 
@@ -51,4 +51,4 @@ For subjective arguments, the apologist turns to their doctrine of immanence. Th
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

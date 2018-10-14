@@ -38,7 +38,7 @@ Bugnini was exerting influence on the Mass.
 
 The first major change to the Missal introduced under Pius XII was a
 revised rite of Easter Vigil (1951). In 1955, [a whole new Holy Week was
-introduced.](http://www.lmschairman.org/2013/04/position-paper-on-holy-week-part-ii.html)
+introduced.](https://www.lmschairman.org/2013/04/position-paper-on-holy-week-part-ii.html)
 (Prior to this, Easter Vigil was held Holy Saturday morning. Which is
 odd, sure, but that’s how it had been done for centuries.)
 
@@ -52,7 +52,7 @@ But those weren’t the only changes:
 > the feast of “Saint Joseph the Worker”, a kind of Catholic May Day.
 >
 > [Fr. Patrick
-> Perez](http://www.traditioninaction.org/HotTopics/f014ht_MissalCrisis_Perez.htm)
+> Perez](https://www.traditioninaction.org/HotTopics/f014ht_MissalCrisis_Perez.htm)
 
 ### 1962 Was A Banner Year {#1962-was-a-banner-year}
 
@@ -93,7 +93,7 @@ This commission was tasked with drawing up schemas, outlines that would
 serve both as first drafts of conciliar documents as well as the
 starting point for the deliberations of the council sessions themselves.
 The various preparatory commissions each produced [schemas that were
-impeccably orthodox](http://www.unamsanctamcatholicam.com/history/79-history/421-original-vatican-ii-schemas.html).
+impeccably orthodox](https://www.unamsanctamcatholicam.com/history/79-history/421-original-vatican-ii-schemas.html).
 So orthodox, in fact, that on the second day of the council they were
 voted off the island. The bishops scrambled to produce new schemas…
 
@@ -110,7 +110,7 @@ sort of influence that he had had with the Commission on Liturgical
 Reform, and then some.
 
 Not only had Bugnini laced the document with [numerous
-loopholes](http://www.freerepublic.com/focus/f-religion/970035/posts),
+loopholes](https://www.freerepublic.com/focus/f-religion/970035/posts),
 he was then put in charge of exploiting them.
 
 It would take too long to list all the differences between the rite of

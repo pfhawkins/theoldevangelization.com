@@ -16,11 +16,11 @@ slug = "modernist-tactics-doublespeak"
 
 +++
 
-After writing of the [Modernist Believer](http://theoldevangelization.com/the-modernist-believer/), Pope St. Pius X takes a brief diversion in §18 to discuss a tactic of the Modernists: doublespeak.
+After writing of the [Modernist Believer](https://theoldevangelization.com/the-modernist-believer/), Pope St. Pius X takes a brief diversion in §18 to discuss a tactic of the Modernists: doublespeak.
 
 > In their writings and addresses they seem not unfrequently to advocate doctrines which are contrary one to the other, so that one would be disposed to regard their attitude as double and doubtful. (§18)
 
-Modernists say one thing at one time, and a contradictory thing at another time. They do this as a consequence of their [false separation of science and faith](http://theoldevangelization.com/the-modernist-believer/). Pius X gives some examples, which I paraphrase here.
+Modernists say one thing at one time, and a contradictory thing at another time. They do this as a consequence of their [false separation of science and faith](https://theoldevangelization.com/the-modernist-believer/). Pius X gives some examples, which I paraphrase here.
 
 1. In a book by a modernist, you might find something completely Catholic on one page, and completely rationalist and unorthodox on the next.
 1. When they write history, they don't talk about the divinity of Christ, because the object of science is not the divine. But when they preach from the pulpit, or write a religious work, they teach the divinity of Christ clearly enough. 

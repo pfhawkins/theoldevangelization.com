@@ -20,7 +20,7 @@ featured_image = "/images/PiusXstudy-pink.jpg"
 
 The Modernist critic synthesizes Modernist history and philosophy to produce his criticism, which ends up butchering Scripture.
 
-The critic starts by taking his data from the [Modernist historian](http://theoldevangelization.com/the-modernist-historian/). (§31) Whatever is left after the historian has made his mark is considered real history; whatever has been explained away is considered the history of faith. So, continuing with the focus on Christ, the critic distinguishes between the Christ who lived in a particular time and place (considered real) and the Christ of faith, who comes from pious meditations of the believer (such a critic would consider the Gospel of St. John to be an example of these ahistorical meditations).
+The critic starts by taking his data from the [Modernist historian](https://theoldevangelization.com/the-modernist-historian/). (§31) Whatever is left after the historian has made his mark is considered real history; whatever has been explained away is considered the history of faith. So, continuing with the focus on Christ, the critic distinguishes between the Christ who lived in a particular time and place (considered real) and the Christ of faith, who comes from pious meditations of the believer (such a critic would consider the Gospel of St. John to be an example of these ahistorical meditations).
 
 Now that the critic has these two classes of documents, the philosopher reminds the critic that vital immanence is a going concern, and everything in the history of the Church comes forth from the collective conscience of her members. And since these come from needs and wants, the historian has to go back and figure out what needs and wants the Church has based on her documents. The historian then hands this list over to the critic, who determines which need led to which historical facts. Also, since facts develop, the critic has to divide his documents into those that cover the origin of facts and those that deal with the development of those facts.
 
@@ -32,4 +32,4 @@ The end result is that the Modernist tears the Scriptures to shreds. Of course t
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

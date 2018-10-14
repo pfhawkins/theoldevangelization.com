@@ -44,4 +44,4 @@ If you change all this, what do you have left?
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

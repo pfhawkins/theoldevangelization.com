@@ -39,4 +39,4 @@ The chief intellectual cause of Modernism is ignorance. By abandoning Scholastic
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

@@ -12,7 +12,7 @@ author = ""
 menu = ""
 
 +++
-There is no low to which our Lord will not stoop in order to win our souls to Him. From _[The Holy Sacrifice of the Mass](http://amzn.to/2oihdVz)_ by Fr. Michael Müller, 1874:
+There is no low to which our Lord will not stoop in order to win our souls to Him. From _[The Holy Sacrifice of the Mass](https://amzn.to/2oihdVz)_ by Fr. Michael Müller, 1874:
 
 > The Holy Mass may also be called a commemoration of the
 Passion and Death of our Lord, because He constantly receives, in this august sacrament, insults similar to those

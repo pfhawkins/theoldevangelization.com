@@ -10,7 +10,7 @@ author = "P.F. Hawkins"
 
 +++
 
-Whenever there is [confusion about a papal plane interview](http://theoldevangelization.com/yes-the-pope-said-something-scandalous/), one logical fallacy is sure to crop up in the ensuing commentary: Denying the Antecedent.
+Whenever there is [confusion about a papal plane interview](https://theoldevangelization.com/yes-the-pope-said-something-scandalous/), one logical fallacy is sure to crop up in the ensuing commentary: Denying the Antecedent.
 
 Denying the antecedent is a perversion of _modus tollens_, a common way of logically structuring an argument. A sound _modus tollens_ argument looks like this:
 

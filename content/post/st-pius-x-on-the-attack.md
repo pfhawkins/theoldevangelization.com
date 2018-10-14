@@ -71,4 +71,4 @@ One year after the publication of *Pascendi*, and every three years afterwards, 
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

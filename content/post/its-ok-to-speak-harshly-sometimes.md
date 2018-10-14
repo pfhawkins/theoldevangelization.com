@@ -20,7 +20,7 @@ slug = "its-ok-to-speak-harshly-sometimes"
 
 +++
 
-One of the more striking things I've come across [reading *Pascendi Dominici Gregis*](http://theoldevangelization.com/pascendi-series/) is the tone. Pope St. Pius X writes many words, and he minces not a one of them.
+One of the more striking things I've come across [reading *Pascendi Dominici Gregis*](https://theoldevangelization.com/pascendi-series/) is the tone. Pope St. Pius X writes many words, and he minces not a one of them.
 
 > But we have not yet come to the end of their philosophy, or, to speak more accurately, their folly. (par. 8)
 
@@ -30,13 +30,13 @@ By most measures, that is a sick burn!
 
 Ouch!
 
-For [some reason](http://en.wikipedia.org/wiki/Modernism_(Roman_Catholicism)), this style of rebuke seems to have fallen out of favor starting in the second half of the 20th Century. I cannot remember reading such harsh language from the pens of Pope John Paul II, Pope Benedict XVI, or Pope Francis.
+For [some reason](https://en.wikipedia.org/wiki/Modernism_(Roman_Catholicism)), this style of rebuke seems to have fallen out of favor starting in the second half of the 20th Century. I cannot remember reading such harsh language from the pens of Pope John Paul II, Pope Benedict XVI, or Pope Francis.
 
 ## The Thing Is, You Can Catch More Flies With Vinegar Than Honey
 
 [No really, you can.](http://xkcd.com/357/)
 
-Did St. Benedict speak sweetly when he [trashed the temple of Apollo](http://theoldevangelization.com/st-benedict-evangelizes/)? From the given accounts, I expect not. Yet he won converts!
+Did St. Benedict speak sweetly when he [trashed the temple of Apollo](https://theoldevangelization.com/st-benedict-evangelizes/)? From the given accounts, I expect not. Yet he won converts!
 
 What all this boils down to is: Catholicism is true. Period. Sometimes, speaking a plain truth *seems* harsh, but isn't. It offends modern sensibilities to say that modernistic philosophy is more folly than philosophy; but it is true. Saying a modernist perverts the very concept of truth hurts modernist ears; but it is true. And with the grace of God, being challenged by such a hard truth may just be the jolt needed to bring one back to the truth.
 

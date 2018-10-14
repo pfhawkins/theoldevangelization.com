@@ -17,7 +17,7 @@ image = "/images/PiusXstudy-pink.jpg"
 featured_image = "/images/PiusXstudy-pink.jpg"
 +++
 
-There is a contradiction between the [Modernist philosopher](http://theoldevangelization.com/the-modernist-philosopher/) and the Modernist believer. The believer thinks that the divine is something external, outside of himself. The philosopher thinks that the divine is completely internal to the believer, and does not exist outside of the believer.
+There is a contradiction between the [Modernist philosopher](https://theoldevangelization.com/the-modernist-philosopher/) and the Modernist believer. The believer thinks that the divine is something external, outside of himself. The philosopher thinks that the divine is completely internal to the believer, and does not exist outside of the believer.
 
 The believer concludes that the divine is external and real on the basis of personal religious experiences. The Modernist would claim that if one does not have these personal religious experiences, one is not a believer.
 
@@ -40,7 +40,7 @@ In addition to bringing Catholicism down to the level of other religions, Modern
 
 Now there is an obvious contradiction to this: aren't there some phenomena in the visible world that are subject to faith? Perhaps the human life of Christ? Not according to the Modernist.
 
-While such things are phenomena, they have been [“transfigured and disfigured” by faith](http://theoldevangelization.com/the-modernist-philosopher/). They have been so worked over that they are now removed from the visible world and are now the object of the invisible divine.
+While such things are phenomena, they have been [“transfigured and disfigured” by faith](https://theoldevangelization.com/the-modernist-philosopher/). They have been so worked over that they are now removed from the visible world and are now the object of the invisible divine.
 
 This false distinction lets the agnostic Modernist scientist say no, Christ did not work real miracles, or prophesy truly, or rise from the dead, or ascend into heaven. At the same time, it lets the Modernist believer say yes, all those those things happened in the realm of faith… which is tantamount to saying not in the real, visible world.
 
@@ -56,4 +56,4 @@ At this point in *Pascendi* Pius X quotes Pius IX:
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

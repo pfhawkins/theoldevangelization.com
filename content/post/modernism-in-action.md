@@ -29,7 +29,7 @@ There are three large obstacles upon which Modernists wage unrelenting war:
 
 ### Scholastic Philosophy
 
-Pius X has already [mentioned in passing](http://theoldevangelization.com/causes-of-modernism/) that by abandoning Scholasticism Modernists have left themselves without the tools to defend themselves from ignorance and intellectual error.
+Pius X has already [mentioned in passing](https://theoldevangelization.com/causes-of-modernism/) that by abandoning Scholasticism Modernists have left themselves without the tools to defend themselves from ignorance and intellectual error.
 
 But Modernists do not just passively ignore Scholasticism; they actively seek to destroy it. “Against scholastic philosophy and theology they use the weapons of ridicule and contempt.” (§42) Their passion for novelty goes hand in hand with a hatred for scholasticism. Pius X sees this disdain for scholasticism as a preeminent mark of Modernism:
 
@@ -55,10 +55,10 @@ This active recruitment has as a side effect the passive infestation of passersb
 
 >It is also a subject of grief to us that many others who, while they certainly do not go so far as the former, have yet been so infected by breathing a poisoned atmosphere, as to think, speak, and write with a degree of laxity which ill becomes a Catholic.
 
-These folk can be found in the laity, in the clergy, and in religious communities. They, wittingly or no, carry out the plan Pius outlined with the [seven personalities](http://theoldevangelization.com/the-seven-personalities-of-modernists/). They wish to have “their names upon the lips of the public, and they know they would never succeed in this were they to say only what has always been said by all men.” They might have persuaded themselves that they are really serving God and the Church, but they only offend both.
+These folk can be found in the laity, in the clergy, and in religious communities. They, wittingly or no, carry out the plan Pius outlined with the [seven personalities](https://theoldevangelization.com/the-seven-personalities-of-modernists/). They wish to have “their names upon the lips of the public, and they know they would never succeed in this were they to say only what has always been said by all men.” They might have persuaded themselves that they are really serving God and the Church, but they only offend both.
 
 
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

@@ -46,15 +46,15 @@ Yet not only are the documents ambiguous, but **also the hermeneutic of continui
 
 Catholic Tradition has previously taught, multiple times, the proper way that the teaching of the Church expressed in its documents is to be understood. A few examples:
 
-From [the Oath Against Modernism](http://www.papalencyclicals.net/Pius10/p10moath.htm):
+From [the Oath Against Modernism](https://www.papalencyclicals.net/Pius10/p10moath.htm):
 
 > I sincerely hold that the doctrine of faith was handed down to us from the apostles through the orthodox Fathers in exactly the same meaning and always in the same purport.
 
-From Pope Agatho, and quoted by Pope Gregory XVI in [Mirari Vos](http://www.papalencyclicals.net/Greg16/g16mirar.htm):
+From Pope Agatho, and quoted by Pope Gregory XVI in [Mirari Vos](https://www.papalencyclicals.net/Greg16/g16mirar.htm):
 
 > "nothing of the things appointed ought to be diminished; nothing changed; nothing added; but they must be preserved both as regards expression and meaning."
 
-From [Dei Filius](http://www.ewtn.com/library/councils/v1.htm), a document of Vatican I:
+From [Dei Filius](https://www.ewtn.com/library/councils/v1.htm), a document of Vatican I:
 
 > Hence, too, that meaning of the sacred dogmas is ever to be maintained which has once been declared by Holy mother Church, and there must never be any abandonment of this sense under the pretext or in the name of a more profound understanding.
 >

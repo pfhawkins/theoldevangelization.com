@@ -18,7 +18,7 @@ featured_image = "/images/PiusXstudy-pink.jpg"
 
 +++
 
-The Modernist historian does not want to be seen as a [philosopher](http://theoldevangelization.com/the-modernist-philosopher/). They want their historical practice to appear objective, untainted by a philosophy. But their historical practice is full of their philosophy, and “their historico-critical conclusions are the natural outcome of their philosophical principles.” (§30)
+The Modernist historian does not want to be seen as a [philosopher](https://theoldevangelization.com/the-modernist-philosopher/). They want their historical practice to appear objective, untainted by a philosophy. But their historical practice is full of their philosophy, and “their historico-critical conclusions are the natural outcome of their philosophical principles.” (§30)
 
 Like the philosopher, the historian starts with agnosticism. Agnosticism means that the Modernist historian removes God from being an actor in history. History deals entirely in phenomena, just like science. Since science and faith are incompatible, and God belongs only to faith, then God cannot have a part in history. 
 
@@ -32,4 +32,4 @@ If this seems somewhat arbitrary, there is an underlying method to these distinc
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

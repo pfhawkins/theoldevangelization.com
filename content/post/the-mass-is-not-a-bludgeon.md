@@ -22,7 +22,7 @@ Now, there may very well be more to the story, in the sense that the bishop disc
 
 Blackmail is exactly the tactic this recently-consecrated bishop is taking. In effect, he is saying ***“Stop saying this Mass, or the chapel gets it!”*** 
 
-Just as [I could not think of a reason justifying forbidding the Traditional Latin Mass to the Franciscan Friars of the Immaculate](http://theoldevangelization.com/old-evangelization-leads-to-persecution/), so too I can posit no problem that a Catholic college would have that would warrant blackmail, much less *using* the Mass as a bludgeon in that blackmail.
+Just as [I could not think of a reason justifying forbidding the Traditional Latin Mass to the Franciscan Friars of the Immaculate](https://theoldevangelization.com/old-evangelization-leads-to-persecution/), so too I can posit no problem that a Catholic college would have that would warrant blackmail, much less *using* the Mass as a bludgeon in that blackmail.
 
 The Holy Sacrifice of the Mass is to bring glory to God and salvation to Catholics. Surely you reading this must have been used at one point in your life. I expect you hated it.
 

@@ -30,7 +30,7 @@ Immanence is the coming of God into the world. Every theistic religion has a the
 
 In Modernism, God is immanent in man.
 
-This false conception of immanence flows from Modernist [philosophy](http://theoldevangelization.com/the-modernist-philosopher/) and [belief](http://theoldevangelization.com/the-modernist-believer/). Per *Pascendi*:
+This false conception of immanence flows from Modernist [philosophy](https://theoldevangelization.com/the-modernist-philosopher/) and [belief](https://theoldevangelization.com/the-modernist-believer/). Per *Pascendi*:
 
 > The philosopher has declared: The principle of faith is immanent; the believer has added: This principle is God; and the theologian draws the conclusion: God is immanent in man. Thus we have theological immanence. (§19)
 
@@ -42,7 +42,7 @@ In Modernism, theological symbolism refers back to the secondary propositions th
 
 > So, too, the philosopher regards it as certain that the representations of the object of faith are merely symbolical; the believer has likewise affirmed that the object of faith is God in himself; and the theologian proceeds to affirm that: The representations of the divine reality are symbolical. (§19)
 
-Remember, these representations are [the basis of Modernist dogmas](http://theoldevangelization.com/the-modernist-philosopher/).
+Remember, these representations are [the basis of Modernist dogmas](https://theoldevangelization.com/the-modernist-philosopher/).
 
 Modernist theology takes a utilitarian view of symbols; these propositions are to be used by the believer as a help to their faith, and only used to the degree they are a help. These symbols are subject to change, both in terms of whatever the current magisterium defines and at the behest of the believer.
 
@@ -60,4 +60,4 @@ In this way, the Modernist can justify *any* action of a Christian should they c
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

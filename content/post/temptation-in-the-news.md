@@ -20,7 +20,7 @@ slug = "temptation-in-the-news"
 
 +++
 
-A follow-up to [the previous post regarding the seventh commandment](http://theoldevangelization.com/the-seventh-commandment-in-the-news/):
+A follow-up to [the previous post regarding the seventh commandment](https://theoldevangelization.com/the-seventh-commandment-in-the-news/):
 
 “And immediately there came to mind the thief we all have inside ourselves and while I arranged the flowers I took the cross and with just a bit of force I removed it,” Pope Francis said.
 

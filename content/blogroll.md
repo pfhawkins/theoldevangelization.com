@@ -8,9 +8,9 @@ draft = false
 image = "/images/great-isaiah-scroll-gold.jpg"
 +++
 
-* [One Peter Five](http://onepeterfive.com)
-* [Denzinger-Bergoglio](http://en.denzingerbergoglio.com/)
-* [Rorate Cæli](http://rorate-caeli.blogspot.com/)
-* [Traditional Roman Catholic Thoughts](http://trcthoughts.com)
-* [Unam Sanctam Catholicam (blog)](http://unamsanctamcatholicam.blogspot.com/), [(additional website)](http://unamsanctamcatholicam.com/)
-* [What's Up With Francischurch?](http://whatisupwiththesynod.com/)
+* [One Peter Five](https://onepeterfive.com)
+* [Denzinger-Bergoglio](https://en.denzingerbergoglio.com/)
+* [Rorate Cæli](https://rorate-caeli.blogspot.com/)
+* [Traditional Roman Catholic Thoughts](https://trcthoughts.com)
+* [Unam Sanctam Catholicam (blog)](https://unamsanctamcatholicam.blogspot.com/), [(additional website)](https://unamsanctamcatholicam.com/)
+* [What's Up With Francischurch?](https://whatisupwiththesynod.com/)

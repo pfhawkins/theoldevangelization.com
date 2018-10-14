@@ -18,7 +18,7 @@ featured_image = "/images/PiusXstudy-green.jpg"
 
 +++
 
-The first thing that Pope Saint Pius X discusses after laying out the [seven personalities of Modernists](http://theoldevangelization.com/the-seven-personalities-of-modernists/) is to reiterate that Modernism is not a bunch of “scattered and unconnected theories”, but is a complete and integrated system. (§39) When you admit but one principle of Modernism, you cannot help but admit all of the Modernist principles.
+The first thing that Pope Saint Pius X discusses after laying out the [seven personalities of Modernists](https://theoldevangelization.com/the-seven-personalities-of-modernists/) is to reiterate that Modernism is not a bunch of “scattered and unconnected theories”, but is a complete and integrated system. (§39) When you admit but one principle of Modernism, you cannot help but admit all of the Modernist principles.
 
 It is in this section that Pius famously defines Modernism to be **“the synthesis of all heresies.”** He continues:
 
@@ -28,5 +28,5 @@ Pius X also notes that Modernism does not just angle for the destruction of the 
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*
 

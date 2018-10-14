@@ -64,5 +64,5 @@ The problem with this is that the presentation of the Faith that Mr. Cardaronell
 
 Father Gaitley is right: vagueness doesn’t move people. The new evangelization, as it is commonly presented in this article and elsewhere, is a vague notion. It doesn’t really move people. Specific doctrines, specific knowledge of Jesus Christ, lay the foundation for knowing and loving God in this life so that we might be happy with Him in the hereafter.  
 
-[1]: http://marccardaronella.com/2013/05/08/enrichment-of-faith/ 
-[2]: http://www.audiosancto.org/inc/BC3/bc3-10.html
+[1]: https://marccardaronella.com/2013/05/08/enrichment-of-faith/ 
+[2]: https://www.audiosancto.org/inc/BC3/bc3-10.html

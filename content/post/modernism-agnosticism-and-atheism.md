@@ -18,7 +18,7 @@ featured_image = "/images/PiusXstudy-yellow.jpg"
 
 +++
 
-After defining Modernism as the synthesis of all heresies, Pope St. Pius X turns to discussion of how the agnosticism of the [Modernist philosophy](http://theoldevangelization.com/the-modernist-philosopher/) leads to atheism.
+After defining Modernism as the synthesis of all heresies, Pope St. Pius X turns to discussion of how the agnosticism of the [Modernist philosophy](https://theoldevangelization.com/the-modernist-philosopher/) leads to atheism.
 
 Agnosticism bars man from approaching God through the intellect. Remember, it says that God is completely unknowable from reason. Instead, it proposes that a better way of approaching God is through “a certain sense of the soul and action”. But in reality (not in Modernism), the sense of the soul is the soul's response to what the intellect or the senses set before it. If man does not approach things with the intellect, man becomes the slave of his senses. Common sense also recognizes that emotion and everything that leads the heart captive hinders the discovery of truth.
 
@@ -44,4 +44,4 @@ Thus, Modernism leads to atheism and “the annihilation of all religion”. Thi
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

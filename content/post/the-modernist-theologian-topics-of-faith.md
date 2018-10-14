@@ -17,7 +17,7 @@ featured_image = "/images/PiusXstudy-pink.jpg"
 
 +++
 
-Since [theologians]((http://theoldevangelization.com/the-modernist-theologian-foundational-concepts/)) talk of faith, Pope St. Pius takes §§21-28 to delve deeper into topics related to faith.
+Since [theologians]((https://theoldevangelization.com/the-modernist-theologian-foundational-concepts/)) talk of faith, Pope St. Pius takes §§21-28 to delve deeper into topics related to faith.
 
 ## Dogma
 
@@ -29,7 +29,7 @@ Modernists view sacraments as the result of “inner impulses”. (You will see 
 
 ## Sacred Books
 
-As mentioned earlier, Sacred Books in the Modernist system are a summary of striking experiences of the type found in every religion. But the content of these books cannot contain what Catholics know as Divine Revelation. God speaks in these books only through the [immanence and divine permanence](http://theoldevangelization.com/the-modernist-theologian-foundational-concepts/) of the believer who wrote them. Any inspiration is reduced to more of a poetical muse than the guidance of the Holy Ghost. (§22)
+As mentioned earlier, Sacred Books in the Modernist system are a summary of striking experiences of the type found in every religion. But the content of these books cannot contain what Catholics know as Divine Revelation. God speaks in these books only through the [immanence and divine permanence](https://theoldevangelization.com/the-modernist-theologian-foundational-concepts/) of the believer who wrote them. Any inspiration is reduced to more of a poetical muse than the guidance of the Holy Ghost. (§22)
 
 ## The Nature of the Church
 
@@ -71,4 +71,4 @@ In practice, Modernists see themselves as individual consciences which need to b
 
 *** 
 
-*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](http://theoldevangelization.com/pascendi-series/).*
+*This post is part of a series on **Pascendi Dominici Gregis**. [Click here for more posts on Pascendi and Modernism](https://theoldevangelization.com/pascendi-series/).*

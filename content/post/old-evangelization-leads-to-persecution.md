@@ -24,7 +24,7 @@ When you evangelize and present the Catholic faith as it has been taught for cen
 
 Some of that persecution will be from within the Church.
 
-A most trenchant example is [the latest persecution of the Franciscan Friars of the Immaculate (FFI)](http://rorate-caeli.blogspot.com/2013/12/for-record-situation-with-franciscans.html). That *Rorate Cæli* link has a thorough explanation of what's gone on most recently. 
+A most trenchant example is [the latest persecution of the Franciscan Friars of the Immaculate (FFI)](https://rorate-caeli.blogspot.com/2013/12/for-record-situation-with-franciscans.html). That *Rorate Cæli* link has a thorough explanation of what's gone on most recently. 
 
 The problems started when a small group within the order petitioned Rome, complaining that the order was too traditional. 
 

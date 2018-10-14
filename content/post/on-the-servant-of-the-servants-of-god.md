@@ -25,5 +25,5 @@ otherwise, the formula would tend to imply that the pope was the
 servant of men rather than of God, and would also imply that only the
 pope was not a servant of God, while everyone else was."
 
-Romano Amerio, _[Iota Unum](http://amzn.to/2ohv52U)_, p. 150
+Romano Amerio, _[Iota Unum](https://amzn.to/2ohv52U)_, p. 150
 
