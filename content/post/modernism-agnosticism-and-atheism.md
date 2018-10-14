@@ -30,7 +30,7 @@ I have tried to quote sparingly from the encyclical, as it tends to be difficult
 
 With this sublime segue, Pope Saint Pius X strikes right at the heart of the matter: Modernism leads directly to “atheism and the absence of all religion”. This progression is illustrated in a cartoon from 1922:
 
-![](http://upload.wikimedia.org/wikipedia/commons/1/10/Descent_of_the_Modernists,_E._J._Pace,_Christian_Cartoons,_1922.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/1/10/Descent_of_the_Modernists,_E._J._Pace,_Christian_Cartoons,_1922.jpg)
 
 None of the beliefs, tactics, or arguments of the Modernists can keep them from pantheism and atheism.
 
