@@ -14,6 +14,7 @@ tags = [
 ]
 description = ""
 image = "/images/PiusXstudy-pink.jpg"
+featured_image = "/images/PiusXstudy-pink.jpg"
 +++
 
 There is a contradiction between the [Modernist philosopher](http://theoldevangelization.com/the-modernist-philosopher/) and the Modernist believer. The believer thinks that the divine is something external, outside of himself. The philosopher thinks that the divine is completely internal to the believer, and does not exist outside of the believer.

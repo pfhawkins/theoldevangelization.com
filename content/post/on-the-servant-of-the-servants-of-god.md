@@ -1,5 +1,6 @@
 +++
 image = "/images/Detail_of_Quo_Primum_tempore.JPG"
+featured_image = "/images/Detail_of_Quo_Primum_tempore.JPG"
 tags = ["papacy","Pope Francis","Pope St Gregory the Great"]
 draft = false
 date = "2017-03-25T13:52:56-04:00"

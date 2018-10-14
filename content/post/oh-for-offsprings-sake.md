@@ -18,6 +18,7 @@ tags = [
   "Casti Connubii",
 ]
 image = "/images/2015/Aug/jan-de-bray-orphanage.jpg"
+featured_image = "/images/2015/Aug/jan-de-bray-orphanage.jpg"
 
 +++
 

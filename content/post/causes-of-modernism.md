@@ -14,6 +14,7 @@ slug = "causes-of-modernism"
 draft = false
 title = "Causes of Modernism"
 image = "/images/PiusXstudy-purple.jpg"
+featured_image = "/images/PiusXstudy-purple.jpg"
 +++
 
 ## Moral Causes

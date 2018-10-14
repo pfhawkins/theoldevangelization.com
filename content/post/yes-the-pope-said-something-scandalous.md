@@ -6,6 +6,7 @@ tags = [
   "Humanæ Vitæ",
 ]
 image = "/images/pope-on-a-plane-mexico-gold.jpg"
+featured_image = "/images/pope-on-a-plane-mexico-gold.jpg"
 description = ""
 draft = false
 title = "Yes, The Pope Said Something Scandalous"

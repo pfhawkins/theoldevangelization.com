@@ -16,7 +16,7 @@ tags = [
   "Pope St. Pius X",
 ]
 image = "/images/PiusXstudy-blue.jpg"
-
+featured_image = "/images/PiusXstudy-blue.jpg"
 +++
 
 Below, please find a series of posts on this site on the encyclical [*Pascendi Dominici Gregis*](http://www.papalencyclicals.net/Pius10/p10pasce.htm) of Pope St. Pius X. Bookmark this page as a reference for this study of the encyclical. If you want to be notified of new posts on this site, [subscribe to the RSS feed](http://theoldevangelization.com/rss/). 
@@ -42,6 +42,7 @@ Below, please find a series of posts on this site on the encyclical [*Pascendi D
 - [Causes of Modernism](http://theoldevangelization.com/causes-of-modernism/)
 - [Modernism in Action](http://theoldevangelization.com/modernism-in-action/)
 - [St. Pius X On The Attack](http://theoldevangelization.com/st-pius-x-on-the-attack/)
+
 * * *
 
 If you find any errors in this series or have any questions regarding it, please contact the author via email at <correspondence@theoldevangelization.com>.

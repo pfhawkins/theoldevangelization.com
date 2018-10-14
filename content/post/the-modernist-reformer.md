@@ -14,6 +14,7 @@ description = ""
 slug = "the-modernist-reformer"
 draft = false
 image = "/images/PiusXstudy-pink.jpg"
+featured_image = "/images/PiusXstudy-pink.jpg"
 
 +++
 

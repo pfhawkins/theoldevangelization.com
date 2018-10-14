@@ -4,6 +4,7 @@ comments = false
 date = "2017-10-15T14:38:28-04:00"
 draft = false
 image = "/images/catechism-trent.jpg"
+featured_image = "/images/catechism-trent.jpg"
 menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "pope-francis-vs-roman-catechism"

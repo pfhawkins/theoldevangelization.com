@@ -17,7 +17,7 @@ tags = [
 description = ""
 slug = "just-how-long-is-a-rosary-anyway"
 draft = false
-
+featured_image = "/images/wooden-rosary.jpg"
 +++
 
 This may seem like an unusual question, but just how long is a rosary? How many prayers does it take to pray the rosary?

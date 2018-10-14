@@ -16,6 +16,7 @@ title = "A Priest Who “Sees the Dead”? Dead Wrong"
 date = 2014-07-02T05:56:23-04:00
 author = "P.F. Hawkins"
 image = "/images/2014/Jul/papal-tiara-and-keys.jpg"
+featured_image = "/images/2014/Jul/papal-tiara-and-keys.jpg"
 
 +++
 

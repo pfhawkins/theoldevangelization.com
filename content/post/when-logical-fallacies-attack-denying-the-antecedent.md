@@ -1,5 +1,6 @@
 +++
 image = "/images/2016/02/human-and-chimp-brain.png"
+featured_image = "/images/2016/02/human-and-chimp-brain.png"
 description = ""
 slug = "when-logical-fallacies-attack-denying-the-antecedent"
 draft = false

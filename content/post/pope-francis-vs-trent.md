@@ -4,6 +4,7 @@ menu = ""
 tags = ["Pope Francis","Francis Quotes","Council of Trent","anathema"]
 share = true
 image = "/images/dutch-proverbs.jpg"
+featured_image = "/images/dutch-proverbs.jpg"
 draft = false
 comments = false
 title = "Pope Francis vs. Trent"

@@ -4,6 +4,7 @@ date = "2017-10-13T16:11:04-04:00"
 draft = false
 tags = ["Francis Quotes","doctrine","dogma","principle of non-contradiction","Pope Francis","Pope Agatho"]
 image = "/images/pope-agatho.jpg"
+featured_image = "/images/pope-agatho.jpg"
 +++
 
 ### Shot:

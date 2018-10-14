@@ -16,6 +16,7 @@ draft = false
 title = "Spot Modernism #1"
 date = 2014-05-07T09:36:12-04:00
 image = "/images/2014/Jun/wheres-waldo.jpg"
+featured_image = "/images/2014/Jun/wheres-waldo.jpg"
 +++
 
 Cardinal Lorenzo Baldisseri, the Secretary General of the Synod of Bishops, recently gave [an interview](http://cathcon.blogspot.com/2014/05/cardinal-wants-change-in-church.html) to a weekly magazine. Let's see if we can apply some of the lessons learned from [reading *Pascendi Dominici Gregis*](http://theoldevangelization.com/pascendi-series/) to his statements. 

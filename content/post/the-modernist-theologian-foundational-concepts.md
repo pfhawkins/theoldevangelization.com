@@ -14,6 +14,7 @@ description = ""
 slug = "the-modernist-theologian-foundational-concepts"
 draft = false
 image = "/images/PiusXstudy-pink.jpg"
+featured_image = "/images/PiusXstudy-pink.jpg"
 
 +++
 

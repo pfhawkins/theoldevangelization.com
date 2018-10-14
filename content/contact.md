@@ -10,4 +10,4 @@ image = "/images/typewriter-green.jpg"
 
 While this blog does not host comments, its author welcomes e-mail to <correspondence@theoldevangelization.com>.
 
-If you like what you read, and want to help grow this blogger's personal theological library, consider sending money via https://www.paypal.me/pfhawkins.
+If you like what you read, and want to help grow this blog, consider donating via paypal at https://www.paypal.me/pfhawkins.
