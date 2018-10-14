@@ -15,6 +15,8 @@ description = ""
 slug = "april-fools-day"
 draft = false
 title = "April Fool's Day Fathers Lies"
+image = "/images/dunce-cap.jpg"
+featured_image = "/images/dunce-cap.jpg"
 
 +++
 
