@@ -13,6 +13,8 @@ slug = "st-john-the-evangelist-evangelizes-a-youth"
 draft = false
 title = "St. John The Evangelist Evangelizes a Youth"
 date = 2014-05-08T08:52:52-04:00
+image = "/images/st-john-evangelist-apocalypse.jpg"
+featured_image = "/images/st-john-evangelist-apocalypse.jpg"
 
 +++
 
