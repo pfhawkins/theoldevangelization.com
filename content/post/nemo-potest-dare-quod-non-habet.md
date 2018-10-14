@@ -15,6 +15,8 @@ tags = [
   "axioms",
 ]
 description = ""
+image = "/images/latin-maxim.jpg"
+featured_image = "/images/latin-maxim.jpg"
 
 +++
 
