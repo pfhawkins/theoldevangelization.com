@@ -15,6 +15,8 @@ tags = [
   "feelings",
 ]
 description = ""
+image = "/images/pope-francis-not-proselytizing.jpg"
+featured_image = "/images/pope-francis-not-proselytizing.jpg"
 
 +++
 
