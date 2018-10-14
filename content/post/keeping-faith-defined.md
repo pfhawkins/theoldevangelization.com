@@ -13,6 +13,8 @@ tags = [
 ]
 description = ""
 slug = "keeping-faith-defined"
+image = "/images/catholic-cathedral-upshot.jpg"
+featured_image = "/images/catholic-cathedral-upshot.jpg"
 
 +++
 
