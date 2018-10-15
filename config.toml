@@ -10,6 +10,7 @@ DefaultContentLanguage = "en"
 Paginate = 18
 googleAnalytics = "UA-40425246-1"
 enableRobotsTXT = true
+rssLimit = 5
 
 [sitemap]
   changefreq = "monthly"
