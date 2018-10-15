@@ -6,6 +6,7 @@ description = "Sites worth following"
 slug = "blogroll"
 draft = false
 image = "/images/great-isaiah-scroll-gold.jpg"
+featured_image = "/images/great-isaiah-scroll-gold.jpg"
 +++
 
 * [One Peter Five](https://onepeterfive.com)
