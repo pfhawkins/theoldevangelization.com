@@ -22,7 +22,7 @@ Bugnini, a priest and later Archbishop who was involved in just about
 all the major changes to the Latin liturgy in the 20th century.
 
 ![Annibale
-Bugnini](https://theoldevangelization.com/images/bugnini-headshot.png)
+Bugnini](/images/bugnini-headshot.png)
 
 ### The Liturgical Revolution Revved Up In The 1940’s {#the-liturgical-revolution-revved-up-in-the-1940-s}
 
@@ -120,7 +120,7 @@ serve to illustrate how the biggest of those changes were made.
 #### Fr. Louis Bouyer’s Resignation from the Council for the Implementation of the Constitution on the Liturgy {#fr-louis-bouyer-s-resignation-from-the-council-for-the-implementation-of-the-constitution-on-the-liturgy}
 
 ![Fr. Louis
-Bouyer](https://theoldevangelization.com/images/fr_louis_bouyer1000.jpg)
+Bouyer](/images/fr_louis_bouyer1000.jpg)
 
 In 1974, Father Louis Bouyer, a former member of the Council for the
 Implementation of the Constitution on the Liturgy, [recounted how he had
