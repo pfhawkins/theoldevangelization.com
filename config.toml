@@ -7,7 +7,7 @@ themesDir = "./themes"
 #MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 #SectionPagesMenu = "main"
-Paginate = 18 
+Paginate = 18
 googleAnalytics = "UA-40425246-1"
 enableRobotsTXT = true
 
