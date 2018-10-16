@@ -28,9 +28,12 @@ address with the following:
 
 > We ask you to turn your minds once more to the liturgical innovation of the new rite of the Mass.
 
-That's right: Pope St. Paul VI, the pope who gave us the new rite of the Mass, calls it a new rite.
+That's right: the pope who gave us the new rite of the Mass calls it a new rite.
 
-This should be reason enough to show the Extraordinary
+If anyone would know if it's a rite, it should be the pope who gave it
+to us.
+
+This should be enough to show the Extraordinary
 Form/Ordinary Form distinction does not reflect reality. But there are
 other reasons as well.
 
