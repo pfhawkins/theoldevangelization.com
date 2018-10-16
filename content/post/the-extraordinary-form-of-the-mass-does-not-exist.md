@@ -3,7 +3,7 @@ title =  "The Extraordinary Form of the Mass Does Not Exist"
 date = 2018-10-16T14:44:15-04:00
 tags = ["Novus Ordo","Mass","Traditional Latin Mass","Pope Benedict XVI","Summorum Pontificum"]
 featured_image = "/images/missa-requiem.jpg"
-description = "The Extraordinary Form of the Mass does not exist. Terminological confusion, on the other hand…"
+description = "Terminological confusion, on the other hand…"
 slug = "the-extraordinary-form-of-the-mass-does-not-exist"
 +++
 
