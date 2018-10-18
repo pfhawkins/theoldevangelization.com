@@ -37,6 +37,8 @@ This should be enough to show the Extraordinary
 Form/Ordinary Form distinction does not reflect reality. But there are
 other reasons as well.
 
+![Pope Benedict XVI vs Pope Paul VI](/images/benedict-xvi-v-paul-vi.png)
+
 ## The Latin Rite Already Has Multiple rites
 
 In the history of the Roman Rite, different Masses within that
