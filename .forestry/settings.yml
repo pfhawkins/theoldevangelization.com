@@ -11,7 +11,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content
-  label: Pages
+  label: content
   create: all
   match: "*"
 upload_dir: static/uploads
