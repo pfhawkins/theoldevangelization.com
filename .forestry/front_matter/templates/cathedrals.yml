@@ -1,0 +1,12 @@
+---
+label: cathedrals
+hide_body: false
+is_partial: false
+fields:
+- type: image_gallery
+  name: pictures
+  label: pictures
+  description: put the pics here
+  hidden: false
+- type: text
+- type: textarea
