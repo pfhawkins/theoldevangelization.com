@@ -3,10 +3,17 @@ label: cathedrals
 hide_body: false
 is_partial: false
 fields:
-- type: image_gallery
-  name: pictures
-  label: pictures
-  description: put the pics here
-  hidden: false
 - type: text
-- type: textarea
+  label: title
+  name: title
+- type: datetime
+  name: date
+  label: date
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: tags
+- type: text
+  name: author
+  label: author
