@@ -21,5 +21,3 @@ fields:
   name: featured_image
   label: Featured Image
   description: The header image at the top of the post
-pages:
-- content/cathedrals/st-mary-cathedral-lansing-mi.md
