@@ -5,10 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/cathedrals
+  path: content/cathedrals-era-to-era
   label: cathedrals
   create: all
   match: "**/*"
+  templates:
+  - cathedrals
 - type: directory
   path: content/post
   label: Post
