@@ -6,13 +6,13 @@ tags = ["Pope Francis", "Pope Leo XIII", "Religious Liberty", "Extra Ecclesia Nu
 title = "Pope Francis vs. Pope Leo XIII"
 
 +++
-### Shot:
+## Shot:
 
 > The pluralism and the diversity of religions, colour, sex, race and language are willed by God in His wisdom, through which He created human beings.
 
 Pope Francis_,_ [_A Document on Human Fraternity for World Peace and Living Together_](http://w2.vatican.va/content/francesco/en/travels/2019/outside/documents/papa-francesco_20190204_documento-fratellanza-umana.html " A Document on Human Fraternity for World Peace and Living Together")
 
-### Chaser:
+## Chaser:
 
 > …we are bound absolutely to worship God in that way which He has shown to be His will.
 
