@@ -1,6 +1,6 @@
 +++
 author = "P.F. Hawkins"
-date = "2019-02-04T23:00:00-05:00"
+date = "2019-02-04T16:00:00-05:00"
 featured_image = "/images/Roma_Grab_Leo_XIII_BW.JPG"
 tags = ["Pope Francis", "Pope Leo XIII", "Religious Liberty", "Extra Ecclesia Nulla Salus", "Immortale Dei"]
 title = "Pope Francis vs. Pope Leo XIII"
