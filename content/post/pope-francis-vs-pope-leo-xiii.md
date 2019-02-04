@@ -16,6 +16,6 @@ Pope Francis_,_ [_A Document on Human Fraternity for World Peace and Living Toge
 
 > …we are bound absolutely to worship God in that way which He has shown to be His will.
 
-Pope Leo XXI, [_Immortale Dei_](http://w2.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html "Immortale Dei")
+Pope Leo XIII, [_Immortale Dei_](http://w2.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html "Immortale Dei")
 
 ![](/images/leoxiii.jpeg)
