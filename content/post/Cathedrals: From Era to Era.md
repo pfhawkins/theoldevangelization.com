@@ -1,7 +1,6 @@
 +++
 author = ""
 date = "2019-02-09T11:00:00-05:00"
-draft = true
 featured_image = "/images/48092413_223679941865783_6929670556589490176_n (1).jpg"
 tags = ["Cathedrals", "Arts", "Architecture"]
 title = "Cathedrals: From Era to Era"
