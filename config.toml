@@ -40,14 +40,14 @@ rssLimit = 5
   url = "/about"
 
 [[menu.main]]
+  name = "Cathedrals"
+  identifier = "cathedrals"
+  url = "/cathedrals"
+
+[[menu.main]]
   name = "Blogroll"
   identifier = "blogroll"
   url = "/blogroll"
-
-[[menu.main]]
-  name = "Contact"
-  identifier = "contact"
-  url = "/contact"
 
 [[menu.main]]
   name = "Pascendi/Modernism"
