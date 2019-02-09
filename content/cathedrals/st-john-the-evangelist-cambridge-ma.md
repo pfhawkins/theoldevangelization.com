@@ -27,4 +27,4 @@ A shortage of Dominican sisters resulted in a need for lay teachers in 1956. Lat
 
 All information can be found on the parish website [http://www.stjohncambridge.org/Parish-History](http://www.stjohncambridge.org/Parish-History "St. John Cambridge Website")
 
-If you have any information or pictures of St. John the Evangelist Catholic Church in Cambridge, MA, especially those before the renovation of 1998, please email them to [cathedralsera@gmail.com](mailto:cathedralser@gmail.com)
+If you have any information or pictures of St. John the Evangelist Catholic Church in Cambridge, MA, especially those before the renovation of 1998, please email them to [cathedralsera@gmail.com](mailto:cathedralsera@gmail.com)
