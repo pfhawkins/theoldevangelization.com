@@ -22,6 +22,7 @@ fields:
   label: Featured Image
   description: The header image at the top of the post
 pages:
+- content/cathedrals/sacred-heart-catholic-church-muenster-tx.md
 - content/post/pope-francis-vs-pope-leo-xiii.md
 - content/cathedrals/The Monastery Immaculate Conception - Ferdinand, IN.md
 - content/cathedrals/st-john-the-evangelist-cambridge-ma.md
