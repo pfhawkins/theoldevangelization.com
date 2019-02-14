@@ -1,7 +1,6 @@
 +++
 author = "A. Williams"
 date = "2019-02-13T00:00:00-05:00"
-draft = true
 featured_image = "/images/48092413_223679941865783_6929670556589490176_n (2).jpg"
 tags = []
 title = "Sacred Heart Catholic Church - Muenster, TX"
