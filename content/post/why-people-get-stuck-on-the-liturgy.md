@@ -2,7 +2,7 @@
 author = ""
 date = "2019-02-24T11:00:00-05:00"
 draft = true
-featured_image = "/images/Adriaen_Ysenbrandt_(Netherlandish,_active_1510_-_1551)_-_The_Mass_of_Saint_Gregory_the_Great_-_Google_Art_Project.jpg"
+featured_image = "/images/Adriaen-Ysenbrandt-The-Mass-of-Saint-Gregory-the-Great.jpg"
 tags = ["Mass", "liturgy"]
 title = "Why People Get Stuck On The Liturgy"
 
