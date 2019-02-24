@@ -12,9 +12,9 @@ One thing I noticed early on is no matter what the group topic is, conversation 
 
 Some groups embrace liturgy discussions. Some set up separate groups and ask members to talk about the liturgy over there, in the liturgy group. Others just outright ban liturgy talk altogether.
 
-Still, liturgy is always cropping up. It's understandable, given the Eucharist is the source and summit of our faith. 
+Still, liturgy is always cropping up. It's understandable, given the Eucharist is the source and summit of our faith.
 
-The absolute fundamental nature of the liturgy, especially the holy sacrifice of the Mass, was really driven home for me when I read [this article on "the other abuse crisis"](https://medium.com/@johnmonaco/the-other-abuse-crisis-in-the-catholic-church-that-no-one-is-talking-about-c4e5ca094dc1 "The Other Abuse Crisis"). The subtitle puts it quite plainly:
+The absolutely fundamental nature of the liturgy, especially the holy sacrifice of the Mass, was really driven home for me when I read [this article on "the other abuse crisis"](https://medium.com/@johnmonaco/the-other-abuse-crisis-in-the-catholic-church-that-no-one-is-talking-about-c4e5ca094dc1 "The Other Abuse Crisis"). The subtitle puts it quite plainly:
 
 > How is it possible for bishops & priests to respect the bodies of the faithful, when some of them do not even respect the Body of the Lord?
 
