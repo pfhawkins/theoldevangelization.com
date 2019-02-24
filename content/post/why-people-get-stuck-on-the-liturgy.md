@@ -26,3 +26,5 @@ And if you find yourself in an online discussion and someone brings liturgy up f
 * How we pray teaches us how we believe. If our prayer is slipshod, irreverent, and disrespectful, our beliefs will be similarly disordered.
 * Virtue is forged by good habits. Vice is forged by evil ones. Why  habituate ourselves to vicious liturgy?
 * Fixing the liturgy of the Latin Rite won't fix all of the Church's problems. But it is a fundamental problem in dire need of fixing. And it affects all aspects of Church life.
+
+![](/images/missa-requiem.jpg)
