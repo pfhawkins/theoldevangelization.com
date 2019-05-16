@@ -2,7 +2,7 @@
 author = ""
 date = "2019-05-15T18:00:00-04:00"
 draft = true
-featured_image = ""
+featured_image = "/images/pope-francis-heretical.jpg"
 tags = ["Pope Francis", "Vatican I"]
 title = "Pope Francis vs. Vatican I"
 
