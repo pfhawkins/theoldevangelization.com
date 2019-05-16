@@ -18,3 +18,11 @@ title = "Pope Francis vs. Vatican I"
 —[Dogmatic Canons](https://www.ewtn.com/library/COUNCILS/V1.HTM#5 "Dogmatic Canons, Vatican Council I"), Vatican Council I
 
 ## CHASER:
+
+> The way of understanding the faith today, after Vatican II, is different than the way of understanding the faith before Vatican II, because there was a development of understanding.
+
+—Pope Francis, [Public Address to the International Union of Superiors General](https://twitter.com/CatholicSat/status/1126800009847087105 "Pope Francis addresses the International Union of Superiors General")
+
+> I have clearly stated that the death penalty is unacceptable, it is immoral. 50 years ago? No… but there has been a better understanding of morality.
+
+—Pope Francis, [Public Address to the International Union of Superiors General](https://twitter.com/CatholicSat/status/1126800009847087105 "Pope Francis addresses the International Union of Superiors General")
