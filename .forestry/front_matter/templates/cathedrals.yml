@@ -21,6 +21,7 @@ fields:
   label: Featured Image
   description: The header image at the top of the post
 pages:
+- content/post/the-fruits-of-vatican-ii.md
 - content/post/pope-francis-vs-vatican-i.md
 - content/cathedrals/test-title.md
 - 'content/post/Cathedrals: From Era to Era.md'
