@@ -1,7 +1,6 @@
 +++
 author = ""
-date = "2019-06-25T07:00:00-04:00"
-draft = true
+date = "2019-06-25T06:00:00-04:00"
 featured_image = "/images/empty-pews.jpg"
 tags = []
 title = "The Fruits of Vatican II"
