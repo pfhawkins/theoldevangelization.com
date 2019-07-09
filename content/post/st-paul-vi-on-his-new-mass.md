@@ -22,3 +22,5 @@ Pope St. Paul VI, [Address to a General Audience, November 26, 1969](https://www
 > What will be the results of this innovation? The results expected, or rather desired, are that the faithful will participate in the liturgical mystery with more understanding, in a more practical, a more enjoyable and a more sanctifying way.
 
 Pope St. Paul VI, [Address to a General Audience, November 19, 1969](https://www.ewtn.com/library/PAPALDOC/P6601119.HTM "Address to a General Audience, November 19, 1969")
+
+![](/images/NewMass - NotreDame.jpg)
