@@ -2,7 +2,7 @@
 author = ""
 date = "2019-07-10T00:00:00-04:00"
 draft = true
-featured_image = ""
+featured_image = "/images/bugnini-paul-vi.png"
 tags = []
 title = "St. Paul VI On His New Mass"
 
