@@ -2,7 +2,7 @@
 author = ""
 date = "2019-07-10T00:00:00-04:00"
 draft = true
-featured_image = "/images/st-mary-cathedral-1968.jpg"
+featured_image = "/images/2016/02/paul-vi-and-jpi.jpg"
 tags = []
 title = "St. Paul VI On His New Mass"
 
