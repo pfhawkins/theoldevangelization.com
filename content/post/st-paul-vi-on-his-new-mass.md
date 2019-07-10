@@ -1,7 +1,6 @@
 +++
 author = ""
-date = "2019-07-10T07:00:00-04:00"
-draft = true
+date = "2019-07-10T09:00:00-04:00"
 featured_image = "/images/2016/02/paul-vi-and-jpi.jpg"
 tags = []
 title = "St. Paul VI On His New Mass"
