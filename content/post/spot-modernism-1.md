@@ -19,7 +19,7 @@ image = "/images/2014/Jun/wheres-waldo.jpg"
 featured_image = "/images/2014/Jun/wheres-waldo.jpg"
 +++
 
-Cardinal Lorenzo Baldisseri, the Secretary General of the Synod of Bishops, recently gave [an interview](http://cathcon.blogspot.com/2014/05/cardinal-wants-change-in-church.html) to a weekly magazine. Let's see if we can apply some of the lessons learned from [reading *Pascendi Dominici Gregis*](https://theoldevangelization.com/pascendi-series/) to his statements. 
+Cardinal Lorenzo Baldisseri, the Secretary General of the Synod of Bishops, recently gave [an interview](https://web.archive.org/web/20140516011136/http://cathcon.blogspot.com/2014/05/cardinal-wants-change-in-church.html) to a weekly magazine. Let's see if we can apply some of the lessons learned from [reading *Pascendi Dominici Gregis*](https://theoldevangelization.com/pascendi-series/) to his statements. 
 
 ## “The Church is not timeless”
 

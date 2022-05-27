@@ -10,7 +10,7 @@ title = "Blogroll"
 +++
 * [Sermonry](https://sermonry.com "Sermonry")
 * [One Peter Five](https://onepeterfive.com)
-* [Denzinger-Bergoglio](https://en.denzingerbergoglio.com/)
+* [Denzinger-Bergoglio](https://en-denzingerbergoglio.com/)
 * [Rorate Cæli](https://rorate-caeli.blogspot.com/)
 * [Traditional Roman Catholic Thoughts](https://trcthoughts.com)
 * [Unam Sanctam Catholicam (blog)](https://unamsanctamcatholicam.blogspot.com/), [(additional website)](https://unamsanctamcatholicam.com/)

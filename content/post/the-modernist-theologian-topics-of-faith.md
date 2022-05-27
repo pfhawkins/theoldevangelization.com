@@ -17,7 +17,7 @@ featured_image = "/images/PiusXstudy-pink.jpg"
 
 +++
 
-Since [theologians]((https://theoldevangelization.com/the-modernist-theologian-foundational-concepts/)) talk of faith, Pope St. Pius takes §§21-28 to delve deeper into topics related to faith.
+Since [theologians](https://theoldevangelization.com/the-modernist-theologian-foundational-concepts/) talk of faith, Pope St. Pius takes §§21-28 to delve deeper into topics related to faith.
 
 ## Dogma
 

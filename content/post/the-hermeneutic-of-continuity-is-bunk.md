@@ -54,7 +54,7 @@ From Pope Agatho, and quoted by Pope Gregory XVI in [Mirari Vos](https://www.pap
 
 > "nothing of the things appointed ought to be diminished; nothing changed; nothing added; but they must be preserved both as regards expression and meaning."
 
-From [Dei Filius](https://www.ewtn.com/library/councils/v1.htm), a document of Vatican I:
+From [Dei Filius](https://web.archive.org/web/20180819092840/https://www.ewtn.com/library/councils/v1.htm), a document of Vatican I:
 
 > Hence, too, that meaning of the sacred dogmas is ever to be maintained which has once been declared by Holy mother Church, and there must never be any abandonment of this sense under the pretext or in the name of a more profound understanding.
 >

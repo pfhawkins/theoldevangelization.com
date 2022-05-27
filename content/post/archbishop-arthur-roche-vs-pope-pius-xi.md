@@ -38,6 +38,6 @@ slug = "archbishop-arthur-roche-vs-pope-pius-xi"
 > exactly the same as He instituted it.
 >
 > Pope Pius XI, [_Mortalium Animos_,
-> §10](http://www.papalencyclicals.net/Pius11/P11MORTA.HTM)
+> §10](https://www.papalencyclicals.net/pius11/p11morta.htm)
 
 ![Pope Pius XI](/images/Pope-Pius-XI-1929.jpg)

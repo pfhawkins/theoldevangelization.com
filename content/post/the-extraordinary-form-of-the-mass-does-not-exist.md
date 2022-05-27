@@ -23,7 +23,7 @@ The thing is, that distinction is simply wrong on the face of it.
 ## Pope Paul VI Calls It A Rite
 
 Pope Paul VI, in a [general audience given 26 November
-1969](https://www.ewtn.com/library/PAPALDOC/P6691126.HTM), kicks off his
+1969](https://web.archive.org/web/20180819092840/https://www.ewtn.com/library/PAPALDOC/P6691126.HTM), kicks off his
 address with the following:
 
 > We ask you to turn your minds once more to the liturgical innovation of the new rite of the Mass.

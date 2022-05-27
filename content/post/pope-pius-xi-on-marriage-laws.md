@@ -20,7 +20,7 @@ featured_image = "/images/pius-xi-enthroned.jpg"
 
 +++
 
-From *[Casti Connubii](http://www.papalencyclicals.net/Pius11/P11CASTI.HTM)* §5:
+From *[Casti Connubii](https://www.papalencyclicals.net/pius11/p11casti.htm)* §5:
 
 > … let it be repeated as an immutable and inviolable fundamental doctrine that matrimony was not instituted or restored by man but by God; not by man were the laws made to strengthen and confirm and elevate it but by God, the Author of nature, and by Christ Our Lord by Whom nature was redeemed, and hence these laws cannot be subject to any human decrees or to any contrary pact even of the spouses themselves. This is the doctrine of Holy Scripture; this is the constant tradition of the Universal Church; this the solemn definition of the sacred Council of Trent, which declares and establishes from the words of Holy Writ itself that God is the Author of the perpetual stability of the marriage bond, its unity and its firmness.
 

@@ -19,7 +19,7 @@ This "Thumper Theorem" is useful… right up until the moment when you encounter
 
 Employing the Thumper Theorem in this time of widespread apostacy and hierarchical modernism is tantamount to keeping your sword sheathed as your shepherds raise theirs to strike you down. 
 
-I was disappointed to find this attitude in [Fr. Hunwicke's recent post on encyclicals](http://liturgicalnotes.blogspot.co.uk/2015/06/encyclicals_20.html):
+I was disappointed to find this attitude in [Fr. Hunwicke's recent post on encyclicals](http://liturgicalnotes.blogspot.com/2015/06/encyclicals_20.html):
 
 > If we find in this or in any other Encyclical some particular teaching which we genuinely have trouble understanding or appropriating, then, in my view, the most fitting response is simply not to talk about that particular aspect of its teaching until we do find that we can speak positively about it.
 

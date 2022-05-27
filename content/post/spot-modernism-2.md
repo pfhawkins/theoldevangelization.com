@@ -71,11 +71,11 @@ In other words, **relative**(-ist) to St. Pius X’s day, Modernism is not a pro
 
 It seems to me that the only reason we do not discuss relativism in today’s “contexts” is because a majority of the hierarchy has become Modernist, and does not agree that Modernism is a problem, even though it is far more rampant than during Pius X’s pontificate. Father would have been more in keeping with Pope Pius X had he called Modernism “the sum of all heresies”.
 
-Incidentally, for months now we have been putting “into discussion all we believe” regarding the [reception of Communion by public adulterers](https://theoldevangelization.com/there-is-no-such-thing-as-%E2%80%9Cremarriage%E2%80%9D-after-divorce/), more popularly known as the “divorced and remarried”.
+Incidentally, for months now we have been putting “into discussion all we believe” regarding the [reception of Communion by public adulterers](https://theoldevangelization.com/there-is-no-such-thing-as-remarriage-after-divorce/), more popularly known as the “divorced and remarried”.
 
 ## Verdict: Modernism Aplenty
 
 Unfortunately, this interview is not a good resource for learning about Modernism. St. Pius X’s encyclical *[Pascendi Dominici Gregis](https://www.papalencyclicals.net/Pius10/p10pasce.htm)* is a fantastic resource on the topic. I read and blogged about this document [here](https://theoldevangelization.com/pascendi-series/). Sadly, the Pontifical Committee for Historical Sciences is rewriting history to suit Modernists, despite  Pius X’s condemnation of the practice.
 
-This has been another edition of *[Spot Modernism](https://theoldevangelization.com/tag/spot-modernism/)*.
+This has been another edition of *[Spot Modernism](https://theoldevangelization.com/tag/spot-modernism)*.
 
