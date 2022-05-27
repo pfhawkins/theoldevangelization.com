@@ -42,4 +42,4 @@ The purpose of the Roman Catholic Church is to evangelize in order to proselytiz
 
 I tremble to think that either the pope does not realize this, or he chooses to not preach it. 
 
-[1]: https://web.archive.org/web/20130511170755/https://en.radiovaticana.va/news/2013/05/08/pope_francis_at_wednesday_mass:_build_bridges,_not_walls/en1-69020  3
+[1]: https://web.archive.org/web/20130511170755/https://en.radiovaticana.va/news/2013/05/08/pope_francis_at_wednesday_mass:_build_bridges,_not_walls/en1-690203
