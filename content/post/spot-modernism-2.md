@@ -77,5 +77,5 @@ Incidentally, for months now we have been putting “into discussion all we beli
 
 Unfortunately, this interview is not a good resource for learning about Modernism. St. Pius X’s encyclical *[Pascendi Dominici Gregis](https://www.papalencyclicals.net/Pius10/p10pasce.htm)* is a fantastic resource on the topic. I read and blogged about this document [here](https://theoldevangelization.com/pascendi-series/). Sadly, the Pontifical Committee for Historical Sciences is rewriting history to suit Modernists, despite  Pius X’s condemnation of the practice.
 
-This has been another edition of *[Spot Modernism](https://theoldevangelization.com/tag/spot-modernism)*.
+This has been another edition of *[Spot Modernism](https://theoldevangelization.com/tags/spot-modernism)*.
 
